@@ -1,0 +1,6 @@
+{
+  "name": "Novosriti — Mission Lab",
+  "description": "Interactive 3D educational space exploration game recreating historical Apollo, Mars rover, lander, helicopter, and Voyager 1 deep space missions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
